@@ -62,7 +62,7 @@
 </details>
 
 
-## Schwarzenegger - Terminator
+## T800 - Terminator
 
 ### Install:
 [https://waze.com/ul?acvp=a73385be-9bf9-4afc-8062-fd48b6f494d3](https://waze.com/ul?acvp=a73385be-9bf9-4afc-8062-fd48b6f494d3)

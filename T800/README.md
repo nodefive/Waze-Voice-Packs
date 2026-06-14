@@ -1,4 +1,4 @@
-# Schwarzenegger (Terminator) — Waze Voicepack Prompt List
+# T800 (Terminator) — Waze Voicepack Prompt List
 
 ### Install this voicepack
 
